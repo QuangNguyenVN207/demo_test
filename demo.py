@@ -1,3 +1,5 @@
 print("Hello, World")
 print("Hehe")
-print("S")
+print("S") 
+i = 0
+a = input()

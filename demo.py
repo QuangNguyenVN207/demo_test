@@ -2,4 +2,5 @@ print("Hello, World")
 print("Hehe")
 print("S")
 abc =input()
-print(15/2.0)
+a = 15.0 /2.0
+print(a)
